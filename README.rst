@@ -2,15 +2,15 @@
 colorutils
 ==========
 
-.. image:: https://pypip.in/license/colorutils/badge.svg
+.. image:: https://img.shields.io/pypi/l/colorutils.svg
     :target: https://pypi.python.org/pypi/colorutils/
     :alt: License
     
-.. image:: https://pypip.in/version/colorutils/badge.svg
+.. image:: https://img.shields.io/pypi/v/colorutils.svg
     :target: https://pypi.python.org/pypi/colorutils/
     :alt: Latest Version
     
-.. image:: https://pypip.in/download/colorutils/badge.svg
+.. image:: https://img.shields.io/pypi/dm/colorutils.svg
     :target: https://pypi.python.org/pypi//colorutils/
     :alt: Downloads
 
